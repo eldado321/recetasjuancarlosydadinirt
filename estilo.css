@@ -1,0 +1,134 @@
+body{
+	font-family: arial, helveltica;
+	background: #e8e8e8;
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+.centrar{
+	text-align: center;
+}
+.numero1{			
+	        background: #aed6f1;
+			border: solid 1px;
+			width: 400px;
+			height: 300px;
+			display: inline-block;
+		}
+
+.numero2{
+			background: #f6ddcc;
+			border: solid 1px;
+			width: 400px;
+			height: 300px;
+			display: inline-block;
+		}
+
+.numero3{
+			background: #d0ece7;
+			border: solid 1px;
+			width: 400px;
+			height: 300px;
+			display: inline-block;
+		}
+
+.numero4{
+			background: #d5d8dc;
+			border: solid 1px;
+			width: 400px;
+			height: 300px;
+			display: inline-block;
+		}
+
+.numero5{
+			background: #e8daef;
+			border: solid 1px;
+			width: 400px;
+			height: 300px;
+			display: inline-block;
+		}
+
+.boton{
+	background: #85c1e9;
+	width: 70px;
+	height: 40px;
+}
+
+.boton1{
+	background: #edbb99;
+	width: 70px;
+	height: 40px;
+}
+
+.boton2{
+	background: #a2d9ce;
+	width: 70px;
+	height: 40px;
+}
+
+.boton3{
+	background: #abb2b9;
+	width: 70px;
+	height: 40px;
+}
+
+.boton4{
+	background: #d2b4de;
+	width: 70px;
+	height: 40px;
+}
+
+.imagen1{
+     width: 240px;
+}
+
+.imagen2{
+     width: 280px;
+}
+
+.imagen3{
+     width: 280px;
+}
+
+.imagen4{
+     width: 280px;
+}
+
+.imagen5{
+     width: 280px;
+}
+
+
+.pie{
+	position: absolute;
+	bottom: 0;
+}
+
+.pie{
+	background-color: #114d7b;
+	color: #fff;
+	width: 100%;
+}
